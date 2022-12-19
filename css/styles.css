@@ -1,5 +1,5 @@
 .html {
-    margin: 15px;
+    margin: 20px 40px 5px 30px;
     display: inline-block;
 }
 
@@ -7,6 +7,11 @@
     margin: 5px 40px;
     display: inline-block;
 
+}
+
+li {
+    display: inline-block;
+    vertical-align: top;
 }
 
 .ancher {
@@ -19,6 +24,11 @@
     color: red;
 }
 
+article {
+    width: 1170 px;
+    margin: 0 auto;
+}
+
 .box1 {
     width: 56px;
     height: 56px;
@@ -26,19 +36,19 @@
     vertical-align: top;
     font-size: 37px;
     padding: 10px;
-    margin-left: 15px;
+    margin: 100px 0px 0px 30px;
     background-color: #3D58A6;
 }
 
 .h2 {
     font-size: 22px;
     color: #3D58A6;
-    margin: 0px 0px 15px 15px;
+    margin: 0px 0px 15px 30px;
 }
 
 .lorem {
     font-size: 20px;
-    margin: 0px 0px 30px 15px;
+    margin: 0px 0px 30px 30px;
 }
 
 .space {
@@ -50,7 +60,7 @@
 .image {
     display: inline-block;
     vertical-align: top;
-    width: 220px;
+    margin-left: 30px;
 
 }
 
@@ -62,22 +72,6 @@
 
 .aa {
     margin: 40px 0px 20px 30px;
-}
-
-
-.ee {
-
-    display: inline-block;
-    vertical-align: top;
-
-}
-
-
-.ww {
-    width: 530px;
-    display: inline-block;
-    vertical-align: top;
-
 }
 
 .qq {
@@ -93,10 +87,6 @@
 
 /* //NEWS// */
 
-
-
-
-
 .sec-1 {
     margin-bottom: 50px;
     margin-top: 50px;
@@ -110,12 +100,14 @@
 
 .container {
     width: 1170px;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .tt {
     font-size: 24px;
     margin-bottom: 30px;
+    font-family: 'Playfair Display', serif;
+
 }
 
 .card-left,
@@ -133,18 +125,22 @@
 
 .ff {
     font-size: 22px;
-    color: #3D58A6;
-    margin-bottom: 30px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    color: #3d58a6;
+    margin: 20px 0 18px 20px;
 }
 
 .hh {
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    color: #333333;
     width: 300px;
     display: inline-block;
-    margin-left: 60px;
-    margin-top: 20px;
-    font-size: 20px;
     vertical-align: top;
     line-height: 120%;
+    margin: 10px 0px 0px 30px;
 }
 
 .rr {
